@@ -1,0 +1,5 @@
+---
+roles:
+  - name: geerlingguy.node_exporter
+    src: git@github.com:michaeldelago/ansible-role-node_exporter.git
+    scm: git
